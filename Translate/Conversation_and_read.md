@@ -30,3 +30,36 @@ January, February, March, April, May, June, July, August, September, October, No
 
 What the month of your anniversary? And, what the day? Is today! Oh, happy birthday to you. I'm very happy with you now. Thanks my good friend. Do you can talk with me for one moment?
 without you, we face in many difficulties, to find the answers, but, grace of God, are ok
+
+## New words to conversation in English
+
+Hey my love, how are things with you today, it's ok?
+Oi meu amor, como estão as coisas com você hoje, tudo bem? 
+
+Forgive me to interrupt, but I need talk with you, is only a moment, can be now?
+Me perdoe pela interrupçãok, mas eu precisso falar com você, é apenas um momento, pode ser agora? 
+
+I want live new experience in my life, I can't stop this moment, I need reach all my objectives.
+Eu quero viver novas experiências em minha vida, eu não posso parar neste momento, eu preciso alcançar todos os meus.
+
+Eduard, i have a question do to you, do you can pass your phone number to company? We achievement this position with many hours of work, somethings dont exit, conform all plan. But we are winners.
+Eduard, eu tenho uma pergunta para você, você pode passar seu número de telefone para a empresa? Conseguimos esta posição com muitas horas de trabalho, algumas coisas não saem, conforme todo plano. Mas somos vencedores.
+
+##  Short phrase to use
+
+_08 de Julho de 2023_
+
+I don't go with you, but I can go later in my car. It's ok to you?
+
+I gonna to home, and you, Do you gonna to home too?
+
+Good morning sirs, I need one moment to speak with you.
+
+I want know your project in the morning, case are be possible.
+Case be, I want a small part those implementation.
+I want see all implementations.
+
+sirs, we are here to speak of business, only business and no more. If it's ok to you, it's ok to me too.
+Jonny this no personal, are only business and no more.
+
+I have only a media social, maybe you can me add in your media social. 

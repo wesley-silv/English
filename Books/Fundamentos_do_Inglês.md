@@ -53,14 +53,14 @@ Os pronomes do caso reto são utilizados sempre antes dos verbos, geralmente no 
 Os pronomes oblíquos substituem pessoas, coisas e objetos assumindo a possição de objeto da frase. **São usados sempre depois dos verbos, e geralmente encerram as declarações**. Demostram que sofrem uma ação na maioria das frases.
 
 ```
-I saw it
-He loves her
-We talked to you yesterday
-You can come with us
-They know me very well
+I saw it | Eu o vi
+He loves her | Ele a ama
+We talked to you yesterday | Nós conversamos com você ontem
+You can come with us | Você pode vir conosco
+They know me very well | Eles me conhecem muito bem
 ```
 
-Como podemos observar na frase `I saw it` o it que foi visto e em `He loves her` o her é que recebe o loves.
+Como podemos observar na frase `I saw it` o _it_ é o que foi visto e em `He loves her` o _her_ é que recebe o amor.
 
 #### Tabela 3. Demostrative pronouns
 
@@ -72,13 +72,36 @@ Como podemos observar na frase `I saw it` o it que foi visto e em `He loves her`
 Os pronomes demostrativos são utilizados para demostrar pessoas, coisas e objetos, substituindo o nome da pessoa, coisa ou objeto, assumindo o lugar de sujeito ou objeto na frase. Estes pronomes podem tanto iniciar quanto terminar sentenças, colocadas antes de um verbo e demostrando que podem praticar ou sofrer uma ação.
 
 ```
-There are my friend Tom and Lia
-That boy is Tom
-I know those women
-I bought this
-These books cost U$ 100
+There are my friend Tom and Lia | Eles são meus amigos Tom e Lia
+That boy is Tom | Aquele garoto é Tom
+I know those women | Eu conheco aquelas mulheres
+I bought this | Eu comprei isto
+These books cost U$ 100 |Estes livros custam 100 dólares
 ```
 
 Os pronomes demostrativos podem acompanhar subtantivos como em `that boy, those women e these books` ocupando o lugar de sujeito ou de um objeto em uma frase, ou substituir um substantivos ocupando as mesmas posições de sujeito ou objeto.
 
+_21 de Julho de 2023_
+
 #### Tabela 4. Possessive adjective and possessive pronouns
+
+|          | Pessoa    | Possessivo adjetivo | Possessivo pronome | Tradução             |
+| -------- | --------- | ------------------- | ------------------ | -------------------- |
+| Singular | 1° pessoa | My                  | Mine               | Meu (s), minha (s)   |
+|          | 2° pessoa | Your                | Yours              | Teu (s), Tuas (s)    |
+|          | 3° pessoa | His                 | His                | Dele                 |
+|          |           | Her                 | Hers               | Dela                 |
+|          |           | it                  | Its                | Dele ou Dela         |
+| Plural   | 1° pessoa | Our                 | Ours               | Nosso (s), nossa (s) |
+|          | 2° pessoa | Your                | Yours              | Vosso (s), Vossa (s) |
+|          | 3° pessoa | Their               | Theirs             | Deles ou Delas       |
+
+Como demostrado na tabela acima há dois tipos de pronomes em possessivos em Inglês, eles apresentam a mesma tradução em Português. Os pronomes **possessivos adjetivos** sempre acompanham uma palavra em Inglês, um substantivos, por outro lado, os **possessivos pronomes** substituem as palavras, substantivos, encerrando uma ideia ou até mesmo concluindo uma frase.
+
+```
+My car is big | Meu carro é grande
+The big car is mine | O carro grande é meu
+She has to wash her clothes | Ela tem que lavar as roupas dela
+I think these clothes are hers | Eu acho que estas roupas são dela
+It is yours | É seu?
+```

@@ -23,3 +23,12 @@ Ler e escrever para familiariazar-se com o idioma
 pelo menos 3 vezes por semana ver no mínimo 25 de contéudo com legenda em Inglês e logo depois sem legenda
 
 Fazer uma alto avaliação do nível de entendimento e domínio do conteúdo.
+
+#### Serie - The boys
+
+Episódios com duração de 60 minutos, em uma temporada de 8 episódios. Conteúdo de 6 horas de áudio e vídeo com legenda em Português, em 19/07/2023.
+
+#### Filme - Aquaman 
+
+Duração de 2:10 minutos em 19/07/2023
+

@@ -105,3 +105,33 @@ She has to wash her clothes | Ela tem que lavar as roupas dela
 I think these clothes are hers | Eu acho que estas roupas são dela
 It is yours | É seu?
 ```
+
+_24 de Julho de 2023_
+
+Os pronomes possessivos apresentam uma grafia diferente de acordo com a intenção do falante.
+
+#### Tabela 5. Reflexive pronouns
+
+|          | Pessoa    | Pronome    | Tradução                    |
+| -------- | --------- | ---------- | --------------------------- |
+| Singular | 1° Pessoa | myself     | Eu mesmo (a), me            |
+|          | 2° Pessoa | yourself   | Tu mesmo (a), te            |
+|          | 3° Pessoa | himself    | Ele mesmo, se               |
+|          |           | herself    | Ela mesma, se               |
+|          |           | itself     | Ele ou ela mesmo (a), se    |
+| Plural   | 1° Pessoa | ourselves  | Nós mesmos (as), nos        |
+|          | 2° Pessoa | yourselves | Vocês mesmos (as) se        |
+|          | 3° Pessoa | themselves | Eles ou elas mesmos (as) se |
+
+Os pronomes reflexivos são usados acompanhados da preposição **by**, formando uma expressão. Por exemplo `by myself` é o mesmo que `sozinho ou sozinha`. As outras traduções para as demais pessoas vão depender do contexto no qual estão sendo empregados, singular ou plural, feminino ou masculino, e geralmente são usados em no final de uma frase, substituindo a palavra **alone** em inglês.
+
+```
+I myselft spoke to Mr Jonhson | Eu mesmo falei com o senhor Jonhson
+He cut himself cooking | Ele se cortou cozinhado
+Ann hurt herself in a car accident | Ann se machucou em um acidente de carro
+We ourselves saw that weird train | Nós mesmas vimos aquele trem esquisito
+Do you live by yourself? | Você mora sozinha?
+```
+
+Os pronomes que estudamos fazem parte da formação de frases do inglês, a primeira classe de palavras são palavras que carregam em seu conteúdo características significativas nas frases, como verbo, substantivo, entre outras palavras, que carregam o conteúdo por si só. Um exemplo claro disso é o uso da palavra `stop! (pare! em português)`, o uso desse verbo sozinho nos permite entender a mensagem.
+

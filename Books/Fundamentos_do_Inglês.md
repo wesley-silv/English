@@ -72,14 +72,14 @@ Como podemos observar na frase `I saw it` o _it_ é o que foi visto e em `He lov
 Os pronomes demostrativos são utilizados para demostrar pessoas, coisas e objetos, substituindo o nome da pessoa, coisa ou objeto, assumindo o lugar de sujeito ou objeto na frase. Estes pronomes podem tanto iniciar quanto terminar sentenças, colocadas antes de um verbo e demostrando que podem praticar ou sofrer uma ação.
 
 ```
-There are my friend Tom and Lia | Eles são meus amigos Tom e Lia
+There are my friend Tom and Lia | Estes são meus amigos Tom e Lia
 That boy is Tom | Aquele garoto é Tom
 I know those women | Eu conheco aquelas mulheres
 I bought this | Eu comprei isto
 These books cost U$ 100 |Estes livros custam 100 dólares
 ```
 
-Os pronomes demostrativos podem acompanhar subtantivos como em `that boy, those women e these books` ocupando o lugar de sujeito ou de um objeto em uma frase, ou substituir um substantivos ocupando as mesmas posições de sujeito ou objeto.
+Os pronomes demostrativos podem acompanhar substantivos como em `that boy, those women e these books` ocupando o lugar de sujeito ou de um objeto em uma frase, ou substituir um substantivos ocupando as mesmas posições de sujeito ou objeto.
 
 _21 de Julho de 2023_
 
@@ -126,12 +126,63 @@ Os pronomes possessivos apresentam uma grafia diferente de acordo com a intenç�
 Os pronomes reflexivos são usados acompanhados da preposição **by**, formando uma expressão. Por exemplo `by myself` é o mesmo que `sozinho ou sozinha`. As outras traduções para as demais pessoas vão depender do contexto no qual estão sendo empregados, singular ou plural, feminino ou masculino, e geralmente são usados em no final de uma frase, substituindo a palavra **alone** em inglês.
 
 ```
-I myselft spoke to Mr Jonhson | Eu mesmo falei com o senhor Jonhson
+I myself spoke to Mr Jonhson | Eu mesmo falei com o senhor Jonhson
 He cut himself cooking | Ele se cortou cozinhado
 Ann hurt herself in a car accident | Ann se machucou em um acidente de carro
 We ourselves saw that weird train | Nós mesmas vimos aquele trem esquisito
 Do you live by yourself? | Você mora sozinha?
 ```
 
-Os pronomes que estudamos fazem parte da formação de frases do inglês, a primeira classe de palavras são palavras que carregam em seu conteúdo características significativas nas frases, como verbo, substantivo, entre outras palavras, que carregam o conteúdo por si só. Um exemplo claro disso é o uso da palavra `stop! (pare! em português)`, o uso desse verbo sozinho nos permite entender a mensagem.
+Os pronomes que estudamos fazem parte da formação de frases do inglês, a primeira classe de palavras são palavras que carregam em seu conteúdo características significativas nas frases, como verbo, substantivo, entre outras palavras, que carregam o conteúdo por si só. Um exemplo claro disso é o uso da palavra `stop! (pare! em português)`, o uso desse verbo sozinho nos permite entender a mensagem, pois uma frase é caracterizada pelo sentido completo do seu enunciado.
 
+#### Verbos mostrados em forma de imagens
+
+1. Walk - Caminhar
+2. March - Marchar
+3. Run - Correr
+4. Craw - Engatinhar
+5. Tiptoe - Ponta dos pés
+6. Drag - Arrastar
+7. Push - Empurrar
+8. Jump - Pular
+9. Leap - Saltar
+10. Hop - Saltar
+11. Skip - Pular
+12. Hit - Acertar
+13. Pick up - Pegar
+14. Sit - Senter
+15. Hold - Segurar
+16. Pull - Puchar
+
+Os verbos são palavras que demostram tipos de ações, praticadas ou recebidas a depender do contexto. A preposição `of` possue o sentido de posse como em `God of impossible - Deus do impossível`, em alguns caso o of não possue tradução dentro da frase, `A friend of mine travellend to Hong Kong - Uma amiga minha já viajou para Hong Kong`.
+
+Assim como no português o inglês possui tempos de ação dos verbos os quais são o presente o passado e o futuro. O tempo presente é caracterizado pelas palavras que representam o sentido presente `aways, usually, often, sometimes, never  - sempre, geralmente, frequentemente, algumas vezes e nunca`.
+O tempo presente apresenta características muito peculiáres da linguagem, onde estes verbos somente são flexionados na 3° pessoa do singular com o acréscimo do **S** no final do verbo.
+
+#### Tabela 6. O Present simple
+
+| **To work (trabalhar)** | **To stay (ficar)** | **To study (estudar)** | **To do (fazer)** |
+| ----------------------- | ------------------- | ---------------------- | ----------------- |
+| I work                  | I stay              | I study                | I do              |
+| You work                | You stay            | You study              | You do            |
+| He works                | He stays            | He studies             | He does           |
+| She works               | She stays           | She studies            | She does          |
+| It work                 | It stays            | It studies             | It does           |
+| We work                 | We stay             | We study               | We do             |
+| You work                | You stay            | You study              | You do            |
+| They work               | They stay           | They study             | They do           |
+
+Todos os verbos devem ser acrescídos de um **S** no final, contudo há uma excessão para os verbos terminados em **Y precedido de uma consoante**, como em `He copies my pronunciation`, o Y é retirado e acrescenta-se o **IES**, então copy vai passar a ser **Copies**, mas lembre-se que essa flexão apenas ocorerrá para as pessoas do singular **He, She e It**.
+E para os verbos terminados em **O, X, SS, CH e SH** conjugados para `He, She e It` acresenta-se o **ES** como em `go - goes, fix - fixes, reach - reaches push - pushes`.
+
+Diferente do português no ingles para negarmos uma frase ou fazermos uma pergunta devemos usar um **auxiliar** para demostrar a intenção do falante, quer seja uma negação quer seja uma pergunta. Estes auxiliares são o **do** e o **does**.
+
+O **does** pode ser usado para **negar** ou **perguntar** quando flexionado na 3° pessoa do singular e ao usarmos este auxiliar o verbo retorna a sua forma infinitiva sem o uso dos sufixos `s, es, ies`, o mesmo pode ser confirmado pelo uso na tabela a seguir.
+
+#### Tabela 7. Present siple Affirmative, Negative, Interrogative
+
+| Affirmative        | Negative                 | Interrogative                |
+| ------------------ | ------------------------ | ---------------------------- |
+| I live in Brasil   | I don't live in Italy    | Do I live in New Zealand?    |
+| You live in Brasil | You don't live in Italy  | Do you live in New Zealand?  |
+| He lives in Brasil | He doesn't live in Italy | Does he live in New Zealand? |

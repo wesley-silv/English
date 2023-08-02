@@ -37,7 +37,7 @@ You are good friends - You were good friends
 He is a fantastic men - He was a fantastic man
 ```
 
-O verbo to be sempre será diferente dos outros verbos pois ele carrega um conteúdo muito mais extenso que os outros. A palavra usada para representar o futuro em inglês é `Will`, a mesma pode ser aplicada ao verbo to be como em: `I will be a master in the english`, `I will be a master in the programation too`.
+O verbo **To Be** sempre será diferente dos outros verbos pois ele carrega um conteúdo muito mais extenso que os outros. A palavra usada para representar o futuro em inglês é `Will`, a mesma pode ser aplicada ao verbo to be como em: `I will be a master in the english`, `I will be a master in the programation too`.
 Esquecimento é o resultado da falta de prática, somente a prática poderá levar a fluencia em inglês.
 
 _Tempo de vídeo: 45:37_
@@ -55,7 +55,7 @@ They are - Eles, Elas são / eles, elas estão
 #### Abreviações dos pronomes
 
 As abreviaçãos são uma forma simples de escrita e pronúncia dos pronomes.
-I'am 
+I'm
 You're
 He's
 She's
@@ -63,3 +63,43 @@ It's
 We're
 You're
 They're
+
+Tanto esses modelos quanto os modelos não abrevidados podem ser usados conforme a necessidades pois ambas as formas estão corretas.
+
+`I'm at home - Eu estou em casa, You're happy - Você é feliz, You're at work - Você está no trabalho`
+
+**At** é uma preposição que indica lugares específicos no inglês, podemos observar que no inglês não temos adjetivos no plular, um único adjetivo pode indicar o sentido de singular ou plural, essa colocação vai depender do contexto, `you are happy - Você é ou está feliz ou vocês são ou estão felizes`.
+
+E há adjetivos que são acrescidos do **S** para indicarem o sentido de plural `You are my friend ou You are my friends - Você é meu amigo ou vocês são meus amigos.`
+
+```
+She is my daughter - Ela é minha filha
+She's my sister - Ela é minha irmã
+She's at home - Ela está em casa
+```
+
+#### It is - It's (Usado para algo que não é uma pessoa)
+
+It is easy - Isto é fácil ou é fácil
+It's weird - É estranho ou é esquisito
+It's very hard - É muito difícil
+
+O termo `Hard` do inglês significa `duro, rígido` mas podemos vé-lo em muitas aplicações como tendo o sentido de `difícil` o qual é caracterizado como `difficult`.
+It's very difficult - É muito difícil
+
+O `very` serve para intensificar os adjetivos, qualidades e complementos.
+O `more` possui o sentido de acréscimo como no uso do termo `more light - mais leve`.
+
+We are the champions
+We're friends
+We are in Brazil
+
+O `in` indica o sentido de dentro de algum lugar, ou dentro de um lugar, `where are you from? - I'm from Brazil`.
+
+They are my classmates - Eles são meus colegas de classe
+They are late - Eles estão atrasados
+They're amazing - Eles são surpreendentes, Eles são expetaculares
+
+_Tempo de aula 1:24 minutos_
+
+#### Exercício final da aula

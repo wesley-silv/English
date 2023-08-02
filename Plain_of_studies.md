@@ -26,12 +26,16 @@ Fazer uma alto avaliação do nível de entendimento e domínio do conteúdo.
 
 #### Serie - The boys
 
-Episódios com duração de 60 minutos, em uma temporada de 8 episódios. Conteúdo de 11 horas de áudio e vídeo com legenda em Português, em 24/07/2023.
+Episódios com duração de 60 minutos, em uma temporada de 8 episódios. Conteúdo de 16 horas de áudio e vídeo com legenda em Português, em 28/07/2023.
 
 #### Filme - Aquaman
 
 Duração de 2:10 minutos em 19/07/2023
 
+#### Filme - Interestelar
+
+Duração de 2:44 minutos em 31/07/2023
+
 #### Gramatica com livros
 
-Tempo de estudos 25 minutos em 24/07/2023.
+Tempo de estudos 2:30 minutos em 28/07/2023.

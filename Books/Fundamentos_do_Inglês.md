@@ -154,7 +154,7 @@ Os pronomes que estudamos fazem parte da formação de frases do inglês, a prim
 15. Hold - Segurar
 16. Pull - Puchar
 
-Os verbos são palavras que demostram tipos de ações, praticadas ou recebidas a depender do contexto. A preposição `of` possue o sentido de posse como em `God of impossible - Deus do impossível`, em alguns caso o of não possue tradução dentro da frase, `A friend of mine travellend to Hong Kong - Uma amiga minha já viajou para Hong Kong`.
+Os verbos são palavras que demostram tipos de ações, praticadas ou recebidas a depender do contexto. A preposição `of` possue o sentido de posse como em `God of impossible - Deus do impossível`, em alguns caso o of não possue tradução dentro da frase, `A friend of mine travellend to Hong Kong - Uma amiga minha já viajou para Hong Kong`, em outros sim `Blade of chaos`.
 
 Assim como no português o inglês possui tempos de ação dos verbos os quais são o presente o passado e o futuro. O tempo presente é caracterizado pelas palavras que representam o sentido presente `aways, usually, often, sometimes, never  - sempre, geralmente, frequentemente, algumas vezes e nunca`.
 O tempo presente apresenta características muito peculiáres da linguagem, onde estes verbos somente são flexionados na 3° pessoa do singular com o acréscimo do **S** no final do verbo.
@@ -167,22 +167,100 @@ O tempo presente apresenta características muito peculiáres da linguagem, onde
 | You work                | You stay            | You study              | You do            |
 | He works                | He stays            | He studies             | He does           |
 | She works               | She stays           | She studies            | She does          |
-| It work                 | It stays            | It studies             | It does           |
+| It works                | It stays            | It studies             | It does           |
 | We work                 | We stay             | We study               | We do             |
 | You work                | You stay            | You study              | You do            |
 | They work               | They stay           | They study             | They do           |
 
-Todos os verbos devem ser acrescídos de um **S** no final, contudo há uma excessão para os verbos terminados em **Y precedido de uma consoante**, como em `He copies my pronunciation`, o Y é retirado e acrescenta-se o **IES**, então copy vai passar a ser **Copies**, mas lembre-se que essa flexão apenas ocorerrá para as pessoas do singular **He, She e It**.
+Todos os verbos devem ser acrescídos de um **S** no final, contudo há uma excessão para os verbos terminados em **Y precedido de uma consoante**, como em `He copies my pronunciation`, o **Y** é retirado e acrescenta-se o **IES**, então copy vai passar a ser **Copies**, mas lembre-se que essa flexão apenas ocorrerá para as pessoas do singular **He, She e It**.
 E para os verbos terminados em **O, X, SS, CH e SH** conjugados para `He, She e It` acresenta-se o **ES** como em `go - goes, fix - fixes, reach - reaches push - pushes`.
 
-Diferente do português no ingles para negarmos uma frase ou fazermos uma pergunta devemos usar um **auxiliar** para demostrar a intenção do falante, quer seja uma negação quer seja uma pergunta. Estes auxiliares são o **do** e o **does**.
-
-O **does** pode ser usado para **negar** ou **perguntar** quando flexionado na 3° pessoa do singular e ao usarmos este auxiliar o verbo retorna a sua forma infinitiva sem o uso dos sufixos `s, es, ies`, o mesmo pode ser confirmado pelo uso na tabela a seguir.
+Diferente do português no ingles para negarmos uma frase ou fazermos uma pergunta devemos usar um _auxiliar_ para demostrar a intenção do falante, quer seja uma negação quer seja uma pergunta. Estes auxiliares são o **do** e o **does**.
+O `does` pode ser usado para `negar` ou `perguntar` quando flexionado na `3° pessoa do singular` e ao usarmos este auxiliar o verbo retorna a sua forma `infinitiva` sem o uso dos sufixos `s, es, ies`, o mesmo pode ser confirmado pelo uso na tabela a seguir.
 
 #### Tabela 7. Present siple Affirmative, Negative, Interrogative
 
-| Affirmative        | Negative                 | Interrogative                |
-| ------------------ | ------------------------ | ---------------------------- |
-| I live in Brasil   | I don't live in Italy    | Do I live in New Zealand?    |
-| You live in Brasil | You don't live in Italy  | Do you live in New Zealand?  |
-| He lives in Brasil | He doesn't live in Italy | Does he live in New Zealand? |
+| Affirmative         | Negative                  | Interrogative                 |
+| ------------------- | ------------------------- | ----------------------------- |
+| I live in Brasil    | I don't live in Italy     | Do I live in New Zealand?     |
+| You live in Brasil  | You don't live in Italy   | Do you live in New Zealand?   |
+| He lives in Brasil  | He doesn't live in Italy  | Does he live in New Zealand?  |
+| She lives in Brasil | She doesn't live in Italy | Does she live in New Zealand? |
+| It lives in Brasil  | It doesn't live in Italy  | Does it live in New Zealand?  |
+| We live in Brasil   | We don't live in Italy    | Do we live in New Zealand?    |
+| You live in Brasil  | You don't live in Italy   | Do you live in New Zealand?   |
+| They live in Brasil | They don't live in Italy  | Do thet live in New Zealand?  |
+
+```
+I don't live abroad | Eu não moro no exterior
+Sarah doesn't like vanilla | Sarah não gosta de baunilha
+Does Sarah like vanilla | Sarah gosta de baunilha?
+Does it work | Isto funciona?
+Do you have a question? | Você tem uma pergunta?
+```
+
+Doesn't e don't em português significa `não`, quando utilizamos o `do ou does` para negar ou perguntar eles não são traduzidos para o portugês.
+Uma observação muito importante é que sempre que uma negação ou interrogação for realizada no present simple, devemos usar os auxiliares `do` e `does`, de modo que na 3° pessoa do singular na negação sempre será usado o `doesn't` e na interrogação sempre será usado o `does`. Lembrando que o verbo volta a sua forma infinitiva sem o uso dos sufixos `s, es, ies`.
+
+## Past simple
+
+O **Past simple** é usado para representar ações no passado que iniciou-se e tiveram fim e, é representada por um verbo com indicação de passado, esses verbos podem ser de dois tipos `regulares e irregulares` os quais são flexionados da mesma forma para todas as pessoas do discurso.
+
+Como o passado expressa uma ação já ocorrida é muito comum encontramos um advérbio de tempo para expressar o tempo da ocorrência da ação, como em `yesterday - ontem`, e as espressões mais comuns são `last e ago` como em `last year - ano passado` e `ago summer - verão passado`.
+
+```
+I worked yesterday | Eu trabalhei ontem
+I bought some coffe in the mornig | Eu comprei café de manhã
+He left a minute ago | Ele saiu a um minuto atrás
+The students did a exam | Os alunos fizeram o exame `did vem do verbo do, o qual é fazer`
+```
+
+Em inglês a maior parte dos verbos é regular, por esse motivo devemos memorizar a tabela dos verbos irregulares. Os verbos regulares tem acrescído um sufixo `ed` aos verbos em sua forma infinitiva, como em `I work - Eu trabalho / I worked - Eu trabalhei`.
+
+#### Tabela 8. Regulares e irregulares no past simple
+
+| **Regular: want** | **Regular: like** | **Regular: enjoy** | **Regular: marry** | **Irregular: see** |
+| ----------------- | ----------------- | ------------------ | ------------------ | ------------------ |
+| I wanted          | I liked           | I enjoyed          | I married          | I saw              |
+| You wanted        | You liked         | You enjoyed        | You married        | You saw            |
+| He wanted         | He liked          | He enjoyed         | He married         | He saw             |
+| She wanted        | She liked         | She enjoyed        | She married        | She saw            |
+| It wanted         | It liked          | It enjoyed         | It married         | It saw             |
+| We wanted         | We liked          | We enjoyed         | We married         | We saw             |
+| You wanted        | You liked         | You enjoyed        | You married        | You saw            |
+| They wanted       | They liked        | They enjoyed       | They married       | They saw           |
+
+O past simple é caracterizado pelo acréscimo do sufixo `ed`, há uma exceção para os verbos terminados em `e` pois os mesmos recebem apenas o `d`, como em `love - loved / amor - amou`.
+No caso do verbos terminar em `y` como em `reply` onde o y é precedido de uma consoante retira-se o y e acrescenta o `ied`, e para os demais verbos não importa a terminação usamos sempre o `ed` como em: `play - played, mix - mixed, pass - passed, finish - finished, watch - watched`.
+
+Diferente do português quando desejamos negar ou interrogar no passado usamos um auxiliar, esse auxiliar é o `did` o qual é usado para todas as pessoas do discurso. Ao usarmos esse auxiliar o **verbo volta a sua forma infinitiva** sem o uso do sufixo `ed` nos verbos regulares e os irregulares são subtituidos pela sua forma infinitiva.
+
+#### Tabela 9. Conjugação do verbo to arrive no pest simple
+
+Verbos regurlar to arrive (chegar)
+
+| Affirmative        | Negative                 | Interrogative          |
+| ------------------ | ------------------------ | ---------------------- |
+| I arrived early    | I didn't arrive early    | Did I arrive early?    |
+| You arrived early  | You didn't arrive early  | Did you arrive early?  |
+| He arrived early   | He didn't arrive early   | Did he arrive early?   |
+| She arrived early  | She didn't arrive early  | Did she arrive early?  |
+| It arrived early   | It didn't arrive early   | Did it arrive early?   |
+| We arrived early   | We didn't arrive early   | Did we arrive early?   |
+| You arrived early  | You didn't arrive early  | Did you arrive early?  |
+| They arrived early | They didn't arrive early | Did they arrive early? |
+
+#### Tabela 10. Conjugação do verbo to catch no pest simple
+
+Verbos regurlar to catch (pagar)
+
+| Affirmative        | Negative                 | Interrogative          |
+| ------------------ | ------------------------ | ---------------------- |
+| I caught a cold    | I didn't catch a cold    | Did I catch a cold?    |
+| You caught a cold  | You didn't catch a cold  | Did you catch a cold?  |
+| He caught a cold   | He didn't catch a cold   | Did he catch a cold?   |
+| She caught a cold  | She didn't catch a cold  | Did she catch a cold?  |
+| It caught a cold   | It didn't catch a cold   | Did it catch a cold?   |
+| We caught a cold   | We didn't catch a cold   | Did we catch a cold?   |
+| You caught a cold  | You didn't catch a cold  | Did you catch a cold?  |
+| They caught a cold | They didn't catch a cold | Did they catch a cold? |

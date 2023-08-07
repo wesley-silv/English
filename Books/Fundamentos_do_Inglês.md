@@ -200,19 +200,19 @@ Do you have a question? | Você tem uma pergunta?
 ```
 
 Doesn't e don't em português significa `não`, quando utilizamos o `do ou does` para negar ou perguntar eles não são traduzidos para o portugês.
-Uma observação muito importante é que sempre que uma negação ou interrogação for realizada no present simple, devemos usar os auxiliares `do` e `does`, de modo que na 3° pessoa do singular na negação sempre será usado o `doesn't` e na interrogação sempre será usado o `does`. Lembrando que o verbo volta a sua forma infinitiva sem o uso dos sufixos `s, es, ies`.
+Uma observação muito importante é que sempre que uma negação ou interrogação for realizada no present simple, devemos usar os auxiliares `do` e `does`, de modo que na 3° pessoa do singular na negação sempre será usado o `doesn't` e na interrogação sempre será usado o `does`. Lembrando que o verbo volta a sua forma infinitiva sem o uso dos sufixos `s, es, ies` para ambos os casos.
 
 ## Past simple
 
 O **Past simple** é usado para representar ações no passado que iniciou-se e tiveram fim e, é representada por um verbo com indicação de passado, esses verbos podem ser de dois tipos `regulares e irregulares` os quais são flexionados da mesma forma para todas as pessoas do discurso.
 
-Como o passado expressa uma ação já ocorrida é muito comum encontramos um advérbio de tempo para expressar o tempo da ocorrência da ação, como em `yesterday - ontem`, e as espressões mais comuns são `last e ago` como em `last year - ano passado` e `ago summer - verão passado`.
+Como o passado expressa uma ação já ocorrida é muito comum encontramos um advérbio de tempo para expressar o tempo da ocorrência da ação, como em `yesterday - ontem`, e as espressões mais comuns são `last e ago` como em `last year - ano passado` e `summer ago - verão passado`.
 
 ```
 I worked yesterday | Eu trabalhei ontem
 I bought some coffe in the mornig | Eu comprei café de manhã
 He left a minute ago | Ele saiu a um minuto atrás
-The students did a exam | Os alunos fizeram o exame `did vem do verbo do, o qual é fazer`
+The students did a exam | Os alunos fizeram o exame
 ```
 
 Em inglês a maior parte dos verbos é regular, por esse motivo devemos memorizar a tabela dos verbos irregulares. Os verbos regulares tem acrescído um sufixo `ed` aos verbos em sua forma infinitiva, como em `I work - Eu trabalho / I worked - Eu trabalhei`.
@@ -233,11 +233,11 @@ Em inglês a maior parte dos verbos é regular, por esse motivo devemos memoriza
 O past simple é caracterizado pelo acréscimo do sufixo `ed`, há uma exceção para os verbos terminados em `e` pois os mesmos recebem apenas o `d`, como em `love - loved / amor - amou`.
 No caso do verbos terminar em `y` como em `reply` onde o y é precedido de uma consoante retira-se o y e acrescenta o `ied`, e para os demais verbos não importa a terminação usamos sempre o `ed` como em: `play - played, mix - mixed, pass - passed, finish - finished, watch - watched`.
 
-Diferente do português quando desejamos negar ou interrogar no passado usamos um auxiliar, esse auxiliar é o `did` o qual é usado para todas as pessoas do discurso. Ao usarmos esse auxiliar o **verbo volta a sua forma infinitiva** sem o uso do sufixo `ed` nos verbos regulares e os irregulares são subtituidos pela sua forma infinitiva.
+Diferente do português quando desejamos negar ou interrogar no passado usamos um auxiliar, esse auxiliar é o `did` o qual é usado para todas as pessoas do discurso. Ao usarmos esse auxiliar o **verbo volta a sua forma infinitiva** sem o uso do sufixo `ed` nos verbos regulares, e, os irregulares são substituidos pela sua forma infinitiva.
 
 #### Tabela 9. Conjugação do verbo to arrive no pest simple
 
-Verbos regurlar to arrive (chegar)
+Verbo regular to arrive (chegar)
 
 | Affirmative        | Negative                 | Interrogative          |
 | ------------------ | ------------------------ | ---------------------- |
@@ -252,7 +252,7 @@ Verbos regurlar to arrive (chegar)
 
 #### Tabela 10. Conjugação do verbo to catch no pest simple
 
-Verbos regurlar to catch (pagar)
+Verbo regular to catch (pagar)
 
 | Affirmative        | Negative                 | Interrogative          |
 | ------------------ | ------------------------ | ---------------------- |
@@ -264,3 +264,71 @@ Verbos regurlar to catch (pagar)
 | We caught a cold   | We didn't catch a cold   | Did we catch a cold?   |
 | You caught a cold  | You didn't catch a cold  | Did you catch a cold?  |
 | They caught a cold | They didn't catch a cold | Did they catch a cold? |
+
+_07/08/2023_
+
+Quando usamos o `didn't` em uma negação a sua tradição é o `não`, porém, quando usamos o `Did` em um interrogação não há tradução para o mesmo e a pergunta é realizada a partir do pronome.
+
+Os verbos `be used to` e `get used to` significam `acostumar`, como em `to change who I used to be - para mudar quem eu constumava ser`.
+
+#### Tabela 11. Be used to
+
+| Pessoa   | Acostumar | cozinhar todos os dias |
+| -------- | --------- | ---------------------- |
+| I am     | used to   | cooking every day      |
+| You are  | used to   | cooking every day      |
+| He is    | used to   | cooking every day      |
+| She is   | used to   | cooking every day      |
+| It is    | used to   | cooking every day      |
+| We are   | used to   | cooking every day      |
+| You are  | used to   | cooking every day      |
+| They are | used to   | cooking every day      |
+
+#### Tabela 12. Get used to
+
+| Pessoa   | Acostumar | cozinhar todos os dias |
+| -------- | --------- | ---------------------- |
+| I get    | used to   | cooking every day      |
+| You get  | used to   | cooking every day      |
+| He gets  | used to   | cooking every day      |
+| She gets | used to   | cooking every day      |
+| It gets  | used to   | cooking every day      |
+| We get   | used to   | cooking every day      |
+| You get  | used to   | cooking every day      |
+| They get | used to   | cooking every day      |
+
+Como é possível observar, apenas os verbos na 3° do singular foram alterados, e caso os verbos estejam em negação ou interrogação, os verbos voltam a sua forma infinitiva, sem o uso dos sufixos `s, es, ies`.
+
+```
+I am not used to driving on the left  Eu não estou aconstumada a dirigir à esquerda
+Laurem used to speaking Spanish | Lauren está aconstumada a falar espanhol
+```
+
+A expressão utilizada traz o verbo principal no gerúndio, o qual demostra a familiaridade que se tem no praticar da ação. O `Be used to` e `Get used to` também são usados no passado.
+
+#### Tabela 13. Be used to no passado
+
+| Pessoa    | Acostumar | cozinhar todos os dias |
+| --------- | --------- | ---------------------- |
+| I was     | used to   | going to the beach     |
+| You were  | used to   | going to the beach     |
+| He was    | used to   | going to the beach     |
+| She was   | used to   | going to the beach     |
+| It was    | used to   | going to the beach     |
+| We were   | used to   | going to the beach     |
+| You were  | used to   | going to the beach     |
+| They were | used to   | going to the beach     |
+
+#### Tabela 14. Get used to no passado
+
+| Pessoa   | Acostumar | cozinhar todos os dias |
+| -------- | --------- | ---------------------- |
+| I got    | used to   | going to the beach     |
+| You got  | used to   | going to the beach     |
+| He got   | used to   | going to the beach     |
+| She got  | used to   | going to the beach     |
+| It got   | used to   | going to the beach     |
+| We got   | used to   | going to the beach     |
+| You got  | used to   | going to the beach     |
+| They got | used to   | going to the beach     |
+

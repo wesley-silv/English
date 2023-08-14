@@ -172,7 +172,7 @@ O tempo presente apresenta características muito peculiáres da linguagem, onde
 | You work                | You stay            | You study              | You do            |
 | They work               | They stay           | They study             | They do           |
 
-Todos os verbos devem ser acrescídos de um **S** no final, contudo há uma excessão para os verbos terminados em **Y precedido de uma consoante**, como em `He copies my pronunciation`, o **Y** é retirado e acrescenta-se o **IES**, então copy vai passar a ser **Copies**, mas lembre-se que essa flexão apenas ocorrerá para as pessoas do singular **He, She e It**.
+Todos os verbos devem ser acrescídos de um **S** no final, contudo há uma excessão para os verbos terminados em **Y precedido de uma consoante**, como em `He copies my pronunciation`, o **Y** é retirado e acrescenta-se o **IES**, então copy vai passar a ser **Copies**, mas lembre-se que essa flexão apenas ocorrerá para a terceira pessoa do singular **He, She e It**.
 E para os verbos terminados em **O, X, SS, CH e SH** conjugados para `He, She e It` acresenta-se o **ES** como em `go - goes, fix - fixes, reach - reaches push - pushes`.
 
 Diferente do português no ingles para negarmos uma frase ou fazermos uma pergunta devemos usar um _auxiliar_ para demostrar a intenção do falante, quer seja uma negação quer seja uma pergunta. Estes auxiliares são o **do** e o **does**.
@@ -332,3 +332,36 @@ A expressão utilizada traz o verbo principal no gerúndio, o qual demostra a fa
 | You got  | used to   | going to the beach     |
 | They got | used to   | going to the beach     |
 
+## A utilização do comparativo, superlativo, do verbo can e da combinação there + be
+
+_14 de Agosto de 2023_
+
+A língua inglesa apresenta duas formas de comparar: o comparativo e o superlativo. Essas formas são usadas para demostrar diferenças ou semelhanças entre pessoas, coisas, objetos, etc.
+No entanto as comparações são realizadas em graus no inglês, usando `mais` ou `menos`, como em mais fácil ou menos difícil, no qual o adjetivo mais importate é fácil e difícil.
+
+As comparações são realizadas com base em três tipos de adjetivos `curtos, longos e irregulares`, por exemplo, ao comparar usando os adjetos `tall, old, cold, rich e short`, e para formarmos a comparação usamos o sufixo `ER` de modo que ficará `taller, older, colder richer, shorter`, os quais são no português `mais alto, mais velho, mais frio, mais rico, mais baixo`.
+
+```
+Mike is taller than Jonh - Mike é mais alto que Jonh
+My dictionary is older than yours - Meu dicionário é mais velho que o seu
+Canada is much colder in the winter - Canadá é muinto mais frio no inverno
+His daugther is shorter - A filha dele é mais baixa
+```
+
+Em alguns casos alguns ajustes nos adjetivos são necessários para a realização da comparação, como em `easy, happy, hot, big, simple`, os quais são `fácil, feliz, quente, grande, simples`, usam da mesma forma o sufixo `er`, no entanto são modificados em sua estrutura para a adequação da comparação. Desta forma, eles ficam na comparação da seguinte forma `easier, happier, hotter, bigger, simpler`.
+
+Podemos ver que a estrutura foi modificada da seguinte forma em `easier, happier` com a remoção do `y` e adição do `ier`, em `hot, big` dobrou-se a última consoante e acrescentou-se o `er`, em `simple`, apenas acrescentou-se o `r`.
+
+A comparação nos adjetivos longos é feita com o uso da palavra `more` na frente da palavra, como `Is very more difficult`, `É muito mais difícil`.
+
+```
+This is more expensive - Isto é muito caro
+My house is more comfortable - Minha casa é mais confortável
+This is more dangerous - Isto é mais perigoso
+I will be in a next future more intelligent - Eu serei em um futuro próximo mais inteligente
+The Ford is more expensive than Fiat - A Ford é muito mais caro que a Fiat
+```
+
+Podemos ver que dessa forma o adjetivo não sofre nenhuma modificação em sua estrutura.
+
+E por fim temos os adjetivos irregulares....................

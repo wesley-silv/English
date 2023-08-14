@@ -28,6 +28,10 @@ Fazer uma alto avaliação do nível de entendimento e domínio do conteúdo.
 
 Episódios com duração de 60 minutos, em uma temporada de 8 episódios. Conteúdo de 24 horas de áudio e vídeo com legenda em Português, em 05/08/2023.
 
+#### Serie - The rings fo power
+
+Episódios com duração de 60 minutos, em uma temporada de 8 episódios. Conteúdo de 8 horas de áudio e vídeo com legenda em Português, em 13/08/2023.
+
 #### Filme - Aquaman
 
 Duração de 2:10 minutos em 19/07/2023
@@ -35,6 +39,10 @@ Duração de 2:10 minutos em 19/07/2023
 #### Filme - Interestelar
 
 Duração de 2:44 minutos em 31/07/2023
+
+#### Filme - Jogador número 1
+
+Duração de 2:10 minutos em 13/08/2023
 
 #### Gramatica com livros
 

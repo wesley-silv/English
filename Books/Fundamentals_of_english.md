@@ -1,8 +1,8 @@
 # Fundamentos de Inglês
 
-##### Dayse Cristina Ferreira da Silva, Julice Daijo e Liana Paraguassu em 2018
+Dayse Cristina Ferreira da Silva, Julice Daijo e Liana Paraguassu em 2018
 
-##### 07 de Maio de 2023
+07 de Maio de 2023
 
 ---
 

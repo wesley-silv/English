@@ -12,7 +12,7 @@ O livro inicia com uma introdução a qual relata a facilidade de adquirir o con
 
 O conteúdo do livro está distribuido de forma sequencial e há metodos que vão incremetar o aprendizado, como links, hipertextos, questões e exemplos de uso.
 
-Todas as linguagens possuem um estrutura semântica e características específicas do idioma, para iniciar o aprendizado é essencial a compreensão do conceito de formação de palavras e estruturação de texto. Esse conteúdo é mais focado para a compreensão da escrita e leitura do Inglês, **não há nele foco para a pronúncia e a conversação**.
+Todas as linguagens possuem uma estrutura semântica e características específicas do idioma, para iniciar o aprendizado é essencial a compreensão do conceito de formação de palavras e estruturação de texto. Esse conteúdo é mais focado para a compreensão da escrita e leitura do Inglês, **não há nele foco para a pronúncia e conversação**.
 
 ## Gramática
 

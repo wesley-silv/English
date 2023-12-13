@@ -12,7 +12,7 @@ Be - Ser, Estar
 Bee - Abelha
 Beautiful - Bonito
 Bicycle - Bicicleta
-Biohazar - Risco biológico
+Biohazard - Risco biológico
 Best, Better - melhor
 
 Close - Aberto
